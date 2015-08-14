@@ -1,0 +1,62 @@
+html,body{
+	height: 100%;
+	font-family: 'Ranga', cursive;
+}
+header{
+	background:url(img/background.jpg) no-repeat fixed center;
+	height: 100%;
+	padding-top: 150px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+/*Margenes*/
+.centrado{
+	text-align: center;
+}
+.margen-min{
+	margin-top: 10px;
+}
+.margen-sup{
+	margin-top: 100px;
+}
+.big-bottom-space{
+	margin-bottom: 60px;
+}
+
+/*Tamaños de Letras*/
+.letra8{
+	font-size: 8em;
+}
+.letra4{
+	font-size: 4em;
+}
+.letra3{
+	font-size: 3em;
+}
+.letra2{
+	font-size: 2em;
+}
+.letra1{
+	font-size: 1em;
+}
+
+/*Otros*/
+.black-bg{
+	background-color: #000000;
+}
+
+.inline-block{
+	display: inline-block;
+	margin-right: -4px;
+}
+
+.ContornoRedondo{
+	border-radius: 10px;
+}
+.inline{
+	display: inline;
+}
